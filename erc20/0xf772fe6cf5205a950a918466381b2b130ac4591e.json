@@ -1,0 +1,20 @@
+{
+  "symbol": "KANE",
+  "address": "0xf772fe6cf5205a950a918466381b2b130ac4591e",
+  "overview": {
+    "en": "Kane is a global youth training non-profit foundation based on blockchain. Kane combines football youth training with big data, and cuts into sports industry from big data of youth training.",
+    "zh": "Kane是基于区块链的全球青训非盈利性基金会组织。KANE将足球青训和大数据结合起来，从青训大数据切入体育产业。"
+  },
+  "email": "KaneEmail@protonmail.com",
+  "website": "http://www.kaneweb.co",
+  "whitepaper": "http://www.kaneweb.co",
+  "state": "NORMAL",
+  "published_on": "2020-04-20",
+  "initial_price":{
+        "ETH":"0.01 ETH"
+  },
+  "links": {
+    "blog": "http://www.kaneweb.co",
+    "github": "https://github.com/KaneSource"
+  }
+}
